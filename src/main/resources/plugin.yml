@@ -1,0 +1,5 @@
+name: example-plugin
+main: io.github.lithermans.boilerplate-spigot.ExamplePlugin
+authors: [0x66FF66, lithermans]
+description: Boilerplate code and files for Spigot.
+website: https://www.github.com/0x66ff66/boilerplate-spigot
